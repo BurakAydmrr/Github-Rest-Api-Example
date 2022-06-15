@@ -1,6 +1,6 @@
 ## GİTHUB REST APİ
 
     
-[LİVE](https://burakaydemir.cf/project/index.html)
+[LİVE](https://burakaydemir.cf/project/githubapi/)
 
 a simple app to improve myself
